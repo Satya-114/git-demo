@@ -7,7 +7,7 @@ namespace git_1
         static void Main(string[] args)
         {
             string s = "cognine solutions";
-            Console.WriteLine(s);
+            Console.WriteLine(s.length);
             Console.ReadKey();        }
     }
 }
